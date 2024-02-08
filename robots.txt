@@ -1,0 +1,1 @@
+Sitemap: https://tedee-com.github.io/tedee-release-notes/sitemap.xml
